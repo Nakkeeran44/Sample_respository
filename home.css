@@ -61,6 +61,7 @@ li{
 .menus a{
     font-size: 20px;
     text-decoration: none;
+    padding: 20px 40px;
 }
 .menus li:hover{
     border-left: 1px solid black;
